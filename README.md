@@ -1,4 +1,5 @@
 # multiple-linear-regression-model
+A multiple linear regression model for the prediction of demand for shared bikes. 
 
 Problem Statement:
 
